@@ -3,4 +3,4 @@
     <img alt="Jonathan ascii profile pic" width="200" height="360" src="https://github.com/user-attachments/assets/739779de-75e1-4e9a-8be1-3b79f5ace030" alt="ascii_image_light">
   </picture>
 
-<pre>Hi, Im Jonathan. I’m just a guy who nerds over fonts and colors</pre>
+<pre>Hi, Im Jonathan. I’m just a guy who nerds over fonts and colors.</pre>
